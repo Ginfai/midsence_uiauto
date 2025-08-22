@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@midscene/android": "^0.27.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  }
+}
