@@ -1,0 +1,21 @@
+{
+    "name": "android-demo",
+    "private": true,
+    "version": "1.0.0",
+    "description": "> quick start",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "tsx shared.ts",
+        "test-yaml": "tsx demo-run-yaml.ts",
+        "test-switch-layer": "tsx switch_layer.ts",
+        "test:all": "tsx run-all.ts"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "@midscene/android": "latest",
+        "dotenv": "^16.4.5",
+        "tsx": "4.20.1"
+    }
+}
