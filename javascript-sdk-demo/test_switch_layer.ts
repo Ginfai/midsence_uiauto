@@ -7,7 +7,7 @@ import type { AndroidAgent } from '@midscene/android';
  * 3. 选择并切换到系统图层
  * 4. 返回首页并验证切换是否成功
  */
-export async function runSwitchLayerTest(agent: AndroidAgent) {
+export default async function (agent: AndroidAgent) {
   try {
     console.log('--- Running Switch Layer Test ---');
     // 步骤 1: 点击“图层”进入图层管理界面
