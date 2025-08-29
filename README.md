@@ -1,27 +1,35 @@
-# Midscene Examples
+# Android Demo
 
-Examples for [Midscene.js](https://github.com/web-infra-dev/midscene).
+This is a demo to show how to use Android to do some automation tasks.
 
-## Examples
+If you want to use Android with Vitest, please refer to [android-with-vitest-demo](../android-with-vitest-demo).
 
-Here are some examples you can refer to:
+## Steps
 
-### Web Browser
-- [Automate with Scripts in YAML](./yaml-scripts-demo/): Automate with scripts in YAML. This is the easiest way to integrate Midscene with your existing project.
-- [Integrate with Playwright](./playwright-demo/): Integrate Midscene with Playwright, including ai action, query ,cache, and report.
-- [Integrate with Puppeteer](./puppeteer-demo/): Integrate Midscene with Puppeteer, including ai action, query, cache, and report.
-- [Integrate with Puppeteer and Vitest](./puppeteer-with-vitest-demo/): Integrate Midscene with Puppeteer and Vitest. This is an alternative way to do test without Playwright.
-- [Bridge Mode](./bridge-mode-demo/): Bridge Mode allow you to use Midscene with your Desktop Chrome.
+### Preparation
 
-### Android
-- [JavaScript SDK Demo](./android/javascript-sdk-demo/): Integrate Midscene with Android, including ai action, query, cache, and report.
-- [Vitest Demo](./android/vitest-demo/): Integrate Midscene with Android and Vitest.
-- [YAML Scripts Demo](./android/yaml-scripts-demo/): Automate Android with scripts in YAML. This is the easiest way to integrate Midscene with your existing Android project.
+create `.env` file
 
-## Connectivity Test
+```shell
+# replace by your gpt-4o api key
+OPENAI_API_KEY="YOUR_TOKEN"
+```
 
-- [Connectivity Test](./connectivity-test/): Use this folder to test the connectivity of the LLM Service.
+Refer to this document if your want to use other models like Qwen: https://midscenejs.com/choose-a-model
 
-## Feedback
+### Run demo
 
-To open a issue, please go to [https://github.com/web-infra-dev/midscene/issues](https://github.com/web-infra-dev/midscene/issues).
+```bash
+npm install 
+
+# run demo.ts
+npx tsx demo.ts
+
+# run demo with a `.runYaml` call
+npx tsx demo-run-yaml.ts
+```
+
+# Reference 
+
+https://midscenejs.com/integrate-with-puppeteer.html
+https://midscenejs.com/api.html

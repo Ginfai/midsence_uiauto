@@ -1,8 +1,19 @@
 {
-  "devDependencies": {
-    "@midscene/android": "^0.27.0"
-  },
-  "dependencies": {
-    "dotenv": "^17.2.1"
-  }
+    "name": "android-demo",
+    "private": true,
+    "version": "1.0.0",
+    "description": "> quick start",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test:all": "tsx scripts/run-all.ts"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "@midscene/android": "latest",
+        "@types/node": "^24.3.0",
+        "dotenv": "^16.4.5",
+        "tsx": "4.20.1"
+    }
 }

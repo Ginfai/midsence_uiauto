@@ -4,44 +4,63 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Structure and Architecture
 
-This repository contains examples for `Midscene.js`, a tool for automating tasks on Web Browsers and Android devices. The project is structured into several demo directories, each showcasing a different integration or use case.
+This repository contains examples for `Midscene.js`, a tool for automating tasks on Web Browsers and Android devices. This is a simplified Android automation project with a clean, organized structure.
 
--   **`android/`**: Contains examples for using Midscene.js with Android.
-    -   `javascript-sdk-demo/`: Demonstrates basic automation tasks on Android using the JavaScript SDK.
-    -   `vitest-demo/`: Shows how to integrate Midscene.js with Vitest for testing on Android.
-    -   `yaml-scripts-demo/`: Provides examples of automating Android tasks using YAML scripts.
--   **`connectivity-test/`**: A utility to test the connectivity to the LLM service.
--   Other directories like `playwright-demo/`, `puppeteer-demo/`, etc., are also present as suggested by the root `README.md`.
+### Current Project Structure
 
-A crucial part of the setup for all examples is creating a `.env` file at the root of each example directory and providing an `OPENAI_API_KEY`.
+```
+C:\Projects\midscene-example/
+├── tests/                    # Test automation scripts
+│   ├── test_switch_layer.ts  # Layer switching automation
+│   └── test_search_file.ts  # File search automation
+├── shared/                   # Shared utilities and initialization
+│   ├── agent.ts             # Device connection and agent setup
+│   └── utils.ts             # Common helper functions
+├── scripts/                  # Automation scripts
+│   └── run-all.ts           # Batch test runner
+├── config/                   # Configuration files
+│   └── tsconfig.json        # TypeScript configuration
+├── midscene_run/             # Runtime logs and reports
+└── package.json             # Project scripts and dependencies
+```
+
+### Key Components
+
+-   **`tests/`**: Contains individual test modules for different automation scenarios
+-   **`shared/`**: Shared utilities including device initialization and common helpers
+-   **`scripts/`**: Utility scripts for running tests in batch
+-   **`config/`**: TypeScript and other configuration files
+
+A crucial part of the setup is creating a `.env` file at the root of the project directory and providing an `OPENAI_API_KEY`.
 
 ## Common Commands
 
-### Android JavaScript SDK Demo (`android/javascript-sdk-demo/`)
+### Current Project (Midscene Android Automation)
 
--   **Run demo:** `npx tsx demo.ts` or `npm test`
--   **Run demo with YAML:** `npx tsx demo-run-yaml.ts` or `npm run test-yaml`
+-   **Run layer switching test:** `npm run test-switch-layer`
+-   **Run file search test:** `npm run test-search`
+-   **Run all tests:** `npm run test:all`
+-   **Initialize agent connection:** `npm run test`
 
-### Android Vitest Demo (`android/vitest-demo/`)
+### Available Scripts
 
--   **Run all tests:** `npm run test`
--   **Run a specific test:** `npm run test -- [test-file.test.ts]`
-    -   Example: `npm run test -- setting.test.ts`
-
-### Android YAML Scripts Demo (`android/yaml-scripts-demo/`)
-
--   **Run all YAML scripts:** `midscene ./midscene-scripts/` or `npm test`
--   **Run a specific YAML script:** `midscene ./midscene-scripts/[script-name.yaml]`
-    -   Example: `midscene ./midscene-scripts/maps-navigation.yaml`
-
-### Connectivity Test (`connectivity-test/`)
-
--   **Run connectivity test:** `npm run test`
+-   `npm run test-switch-layer` - Execute the layer switching automation test
+-   `npm run test-search` - Execute the file search automation test
+-   `npm run test:all` - Run all test scripts in batch mode
+-   `npm run test` - Initialize device connection and agent setup
 
 ## Setup
 
-1.  **Dependencies**: Run `npm install` in the specific example directory you are working with.
-2.  **Environment Variables**: Create a `.env` file in the example directory and add your OpenAI API key:
+1.  **Dependencies**: Run `npm install` in the project root directory.
+2.  **Environment Variables**: Create a `.env` file in the project root and add your OpenAI API key:
     ```
     OPENAI_API_KEY="YOUR_TOKEN"
     ```
+3.  **Device Connection**: Ensure your Android device is connected and USB debugging is enabled.
+
+### Test Organization
+
+-   Tests are organized by functionality in the `tests/` directory
+-   Each test file follows the naming pattern `test_[feature].ts`
+-   Shared utilities are located in `shared/` directory
+-   The `scripts/run-all.ts` file automatically discovers and executes all tests
