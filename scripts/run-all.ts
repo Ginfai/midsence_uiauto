@@ -27,26 +27,38 @@ Promise.resolve(
       
       console.log(`Found ${testFiles.length} test file(s):`, testFiles);
 
+      let failedTests = 0;
       // Run all found test suites sequentially
       for (const file of testFiles) {
-        // Construct a full, absolute path and then convert it to a file URL
-        const absolutePath = path.join(testsDir, file);
-        const fileUrl = pathToFileURL(absolutePath).href;
-        
-        const testModule = await import(fileUrl);
+        try {
+            // Construct a full, absolute path and then convert it to a file URL
+            const absolutePath = path.join(testsDir, file);
+            const fileUrl = pathToFileURL(absolutePath).href;
+            
+            const testModule = await import(fileUrl);
 
-        if (typeof testModule.default === 'function') {
-          console.log(`\n--- Running test from: ${file} ---`);
-          await testModule.default(agent);
-        } else {
-          console.warn(`⚠️  Warning: No default export function found in ${file}. Skipping.`);
+            if (typeof testModule.default === 'function') {
+              console.log(`\n--- Running test from: ${file} ---`);
+              await testModule.default(agent);
+              console.log(`✅ Test completed: ${file}`);
+            } else {
+              console.warn(`⚠️  Warning: No default export function found in ${file}. Skipping.`);
+            }
+        } catch (error) {
+            console.error(`❌ Test failed: ${file}`, error);
+            failedTests++;
         }
       }
 
-      console.log('\n🎉 All tests completed successfully!');
+      if (failedTests > 0) {
+        console.error(`\n🔥 ${failedTests} test(s) failed.`);
+        process.exit(1);
+      } else {
+        console.log('\n🎉 All tests completed successfully!');
+      }
 
     } catch (error) {
-      console.error('🔥 A test has failed. Halting execution.', error);
+      console.error('🔥 A critical error occurred in the test runner. Halting execution.', error);
       process.exit(1); // Exit with a failure code
     } finally {
       // If a disconnect method is added, it should be called here.

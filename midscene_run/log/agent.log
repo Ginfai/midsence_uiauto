@@ -1356,3 +1356,57 @@
 [2025-08-28T11:33:15.353+08:00] Using commonContextParser for action: extract
 [2025-08-28T11:33:17.062+08:00] Using commonContextParser for action: extract
 [2025-08-28T11:33:23.453+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-08-28_11-32-12-tkguk4e9.html
+[2025-09-01T09:32:25.804+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:32:36.366+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:32:41.805+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:32:49.242+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:32:57.700+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:33:02.465+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:33:07.974+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:33:18.739+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:33:20.483+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:33:23.562+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:44:55.272+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:45:08.820+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:45:09.090+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-01_09-44-55-4dg7aurh.html
+[2025-09-01T09:46:03.422+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:46:19.415+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:46:20.600+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-01_09-46-03-k1rrg5a8.html
+[2025-09-01T09:47:01.958+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:47:11.566+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:47:16.310+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:47:21.198+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:47:27.120+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:47:34.484+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:47:36.944+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:47:40.823+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:47:48.975+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:47:51.894+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:47:57.312+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-01_09-47-01-kvi8rnrt.html
+[2025-09-01T09:47:59.584+08:00] Using commonContextParser for action: extract
+[2025-09-01T09:48:02.277+08:00] Using commonContextParser for action: extract
+[2025-09-01T09:48:10.539+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-01_09-47-01-kvi8rnrt.html
+[2025-09-01T09:59:03.613+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:59:12.481+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:59:17.274+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:59:22.066+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:59:30.455+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:59:33.003+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:59:36.839+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:59:43.685+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:59:45.939+08:00] Using commonContextParser for action: locate
+[2025-09-01T09:59:50.658+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-01_09-59-03-qlrbunc8.html
+[2025-09-01T09:59:52.702+08:00] Using commonContextParser for action: extract
+[2025-09-01T09:59:55.146+08:00] Using commonContextParser for action: extract
+[2025-09-01T10:00:00.747+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-01_09-59-03-qlrbunc8.html
+[2025-09-01T10:00:00.818+08:00] Using commonContextParser for action: locate
+[2025-09-01T10:00:10.629+08:00] Using commonContextParser for action: locate
+[2025-09-01T10:00:15.222+08:00] Using commonContextParser for action: locate
+[2025-09-01T10:00:21.035+08:00] Using commonContextParser for action: locate
+[2025-09-01T10:00:33.122+08:00] Using commonContextParser for action: locate
+[2025-09-01T10:00:35.937+08:00] Using commonContextParser for action: locate
+[2025-09-01T10:00:41.526+08:00] Using commonContextParser for action: locate
+[2025-09-01T10:00:48.593+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-01_09-59-03-qlrbunc8.html
+[2025-09-01T10:00:51.070+08:00] Using commonContextParser for action: extract
+[2025-09-01T10:00:54.199+08:00] Using commonContextParser for action: extract
+[2025-09-01T10:01:00.048+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-01_09-59-03-qlrbunc8.html
