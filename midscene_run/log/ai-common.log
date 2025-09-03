@@ -78,3 +78,67 @@
 [2025-08-27T15:05:38.942+08:00] adaptBboxToRect, result= { left: 25, top: 103, width: 72, height: 21 }
 [2025-08-27T15:05:53.928+08:00] adaptBboxToRect [ 167, 748, 205, 763 ] 360 780 0 0
 [2025-08-27T15:05:53.929+08:00] adaptBboxToRect, result= { left: 167, top: 748, width: 38, height: 15 }
+[2025-09-03T09:35:59.923+08:00] adaptBboxToRect [ 316, 98, 350, 142 ] 360 780 0 0
+[2025-09-03T09:35:59.924+08:00] adaptBboxToRect, result= { left: 316, top: 98, width: 34, height: 44 }
+[2025-09-03T09:36:09.961+08:00] adaptBboxToRect [ 10, 183, 74, 196 ] 360 780 0 0
+[2025-09-03T09:36:09.961+08:00] adaptBboxToRect, result= { left: 10, top: 183, width: 64, height: 13 }
+[2025-09-03T09:36:17.753+08:00] adaptBboxToRect [] 360 780 0 0
+[2025-09-03T09:38:03.316+08:00] adaptBboxToRect [ 316, 98, 345, 140 ] 360 780 0 0
+[2025-09-03T09:38:03.316+08:00] adaptBboxToRect, result= { left: 316, top: 98, width: 29, height: 42 }
+[2025-09-03T09:38:13.919+08:00] adaptBboxToRect [ 10, 184, 72, 196 ] 360 780 0 0
+[2025-09-03T09:38:13.919+08:00] adaptBboxToRect, result= { left: 10, top: 184, width: 62, height: 12 }
+[2025-09-03T09:38:22.241+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-03T09:38:22.242+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-03T10:08:49.633+08:00] adaptBboxToRect [ 315, 98, 346, 137 ] 360 780 0 0
+[2025-09-03T10:08:49.633+08:00] adaptBboxToRect, result= { left: 315, top: 98, width: 31, height: 39 }
+[2025-09-03T10:09:00.209+08:00] adaptBboxToRect [ 10, 182, 64, 195 ] 360 780 0 0
+[2025-09-03T10:09:00.209+08:00] adaptBboxToRect, result= { left: 10, top: 182, width: 54, height: 13 }
+[2025-09-03T10:09:08.056+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-03T10:09:08.056+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-03T10:10:46.014+08:00] adaptBboxToRect [ 315, 98, 342, 137 ] 360 780 0 0
+[2025-09-03T10:10:46.015+08:00] adaptBboxToRect, result= { left: 315, top: 98, width: 27, height: 39 }
+[2025-09-03T10:10:56.065+08:00] adaptBboxToRect [ 10, 184, 72, 196 ] 360 780 0 0
+[2025-09-03T10:10:56.066+08:00] adaptBboxToRect, result= { left: 10, top: 184, width: 62, height: 12 }
+[2025-09-03T10:11:04.211+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-03T10:11:04.211+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-03T10:19:52.472+08:00] adaptBboxToRect [ 316, 98, 345, 137 ] 360 780 0 0
+[2025-09-03T10:19:52.472+08:00] adaptBboxToRect, result= { left: 316, top: 98, width: 29, height: 39 }
+[2025-09-03T10:20:02.782+08:00] adaptBboxToRect [ 10, 184, 76, 195 ] 360 780 0 0
+[2025-09-03T10:20:02.782+08:00] adaptBboxToRect, result= { left: 10, top: 184, width: 66, height: 11 }
+[2025-09-03T10:20:10.982+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-03T10:20:10.982+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-03T10:20:31.201+08:00] adaptBboxToRect [ 316, 98, 345, 137 ] 360 780 0 0
+[2025-09-03T10:20:31.202+08:00] adaptBboxToRect, result= { left: 316, top: 98, width: 29, height: 39 }
+[2025-09-03T10:20:41.233+08:00] adaptBboxToRect [] 360 780 0 0
+[2025-09-03T14:09:02.942+08:00] adaptBboxToRect [ 320, 104, 356, 139 ] 360 780 0 0
+[2025-09-03T14:09:02.942+08:00] adaptBboxToRect, result= { left: 320, top: 104, width: 36, height: 35 }
+[2025-09-03T14:09:20.107+08:00] adaptBboxToRect [ 10, 182, 64, 195 ] 360 780 0 0
+[2025-09-03T14:09:20.107+08:00] adaptBboxToRect, result= { left: 10, top: 182, width: 54, height: 13 }
+[2025-09-03T14:09:29.280+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-03T14:09:29.280+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-03T14:09:52.829+08:00] adaptBboxToRect [ 312, 98, 347, 136 ] 360 780 0 0
+[2025-09-03T14:09:52.830+08:00] adaptBboxToRect, result= { left: 312, top: 98, width: 35, height: 38 }
+[2025-09-03T14:10:03.831+08:00] adaptBboxToRect [ 10, 243, 105, 258 ] 360 780 0 0
+[2025-09-03T14:10:03.831+08:00] adaptBboxToRect, result= { left: 10, top: 243, width: 95, height: 15 }
+[2025-09-03T14:10:13.057+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-03T14:10:13.057+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-03T14:10:33.535+08:00] adaptBboxToRect [ 312, 98, 345, 137 ] 360 780 0 0
+[2025-09-03T14:10:33.536+08:00] adaptBboxToRect, result= { left: 312, top: 98, width: 33, height: 39 }
+[2025-09-03T14:10:43.091+08:00] adaptBboxToRect [ 9, 314, 52, 326 ] 360 780 0 0
+[2025-09-03T14:10:43.092+08:00] adaptBboxToRect, result= { left: 9, top: 314, width: 43, height: 12 }
+[2025-09-03T14:10:51.174+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-03T14:10:51.175+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-03T14:11:09.824+08:00] adaptBboxToRect [ 312, 98, 350, 140 ] 360 780 0 0
+[2025-09-03T14:11:09.825+08:00] adaptBboxToRect, result= { left: 312, top: 98, width: 38, height: 42 }
+[2025-09-03T14:14:17.284+08:00] adaptBboxToRect [ 312, 98, 357, 136 ] 360 780 0 0
+[2025-09-03T14:14:17.284+08:00] adaptBboxToRect, result= { left: 312, top: 98, width: 45, height: 38 }
+[2025-09-03T14:14:33.273+08:00] adaptBboxToRect [ 10, 183, 64, 195 ] 360 780 0 0
+[2025-09-03T14:14:33.273+08:00] adaptBboxToRect, result= { left: 10, top: 183, width: 54, height: 12 }
+[2025-09-03T14:17:57.229+08:00] adaptBboxToRect [ 314, 98, 350, 136 ] 360 780 0 0
+[2025-09-03T14:17:57.230+08:00] adaptBboxToRect, result= { left: 314, top: 98, width: 36, height: 38 }
+[2025-09-03T14:18:14.391+08:00] adaptBboxToRect [ 10, 184, 72, 196 ] 360 780 0 0
+[2025-09-03T14:18:14.391+08:00] adaptBboxToRect, result= { left: 10, top: 184, width: 62, height: 12 }
+[2025-09-03T14:18:23.189+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-03T14:18:23.190+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-03T14:18:45.217+08:00] adaptBboxToRect [ 315, 98, 346, 137 ] 360 780 0 0
+[2025-09-03T14:18:45.217+08:00] adaptBboxToRect, result= { left: 315, top: 98, width: 31, height: 39 }

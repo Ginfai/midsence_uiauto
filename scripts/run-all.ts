@@ -59,7 +59,7 @@ Promise.resolve(
 
     } catch (error) {
       console.error('🔥 A critical error occurred in the test runner. Halting execution.', error);
-      process.exit(1); // Exit with a failure code
+      process.exit(1); 
     } finally {
       // If a disconnect method is added, it should be called here.
     }

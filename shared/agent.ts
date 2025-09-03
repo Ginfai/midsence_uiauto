@@ -7,8 +7,9 @@ export async function initializeAgent() {
     throw new Error('No connected Android devices found.');
   }
   const page = new AndroidDevice(devices[0].udid);
+  //const page = new AndroidDevice('YOUR_REMOTE_IP:PORT');
 
-  // 👀 init Midscene agent
+  //  init Midscene agent
   const agent = new AndroidAgent(page, {
     aiActionContext:
       'If any location, permission, user agreement, etc. popup, click agree. If login page pops up, close it.',

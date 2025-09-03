@@ -1410,3 +1410,1045 @@
 [2025-09-01T10:00:51.070+08:00] Using commonContextParser for action: extract
 [2025-09-01T10:00:54.199+08:00] Using commonContextParser for action: extract
 [2025-09-01T10:01:00.048+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-01_09-59-03-qlrbunc8.html
+[2025-09-03T09:35:53.857+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T09:35:53.857+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T09:35:53.860+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:36:01.663+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:36:05.786+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_09-35-53-0kk2y4y8.html
+[2025-09-03T09:36:05.787+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '中科星图图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '中科星图图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T09:36:05.787+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '中科星图图层',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T09:36:05.790+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:36:10.866+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:36:13.858+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_09-35-53-0kk2y4y8.html
+[2025-09-03T09:36:13.859+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '返回首页',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '返回首页',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T09:36:13.859+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '返回首页',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T09:36:13.860+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:36:17.824+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_09-35-53-0kk2y4y8.html
+[2025-09-03T09:37:36.393+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T09:37:36.393+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T09:37:36.397+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:37:50.061+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_09-37-36-20nu19y4.html
+[2025-09-03T09:37:57.810+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T09:37:57.810+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T09:37:57.815+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:38:05.176+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:38:09.366+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_09-37-57-aroho9lg.html
+[2025-09-03T09:38:09.368+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '中科星图图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '中科星图图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T09:38:09.368+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '中科星图图层',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T09:38:09.369+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:38:14.833+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:38:18.053+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_09-37-57-aroho9lg.html
+[2025-09-03T09:38:18.054+08:00] callActionInActionSpace Tap , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+} , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+}
+[2025-09-03T09:38:18.054+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '返回',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T09:38:18.055+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:38:23.146+08:00] Using commonContextParser for action: locate
+[2025-09-03T09:38:27.051+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_09-37-57-aroho9lg.html
+[2025-09-03T09:38:29.042+08:00] Using commonContextParser for action: extract
+[2025-09-03T09:38:31.067+08:00] Using commonContextParser for action: extract
+[2025-09-03T09:38:33.354+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_09-37-57-aroho9lg.html
+[2025-09-03T10:08:44.195+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T10:08:44.195+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:08:44.199+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:08:51.308+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:08:55.099+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-08-43-sqdqybk1.html
+[2025-09-03T10:08:55.100+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '中科星图图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '中科星图图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T10:08:55.100+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '中科星图图层',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:08:55.101+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:09:01.034+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:09:04.156+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-08-43-sqdqybk1.html
+[2025-09-03T10:09:04.156+08:00] callActionInActionSpace Tap , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+} , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+}
+[2025-09-03T10:09:04.157+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '返回',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:09:04.158+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:09:09.099+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:09:13.764+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-08-43-sqdqybk1.html
+[2025-09-03T10:09:15.674+08:00] Using commonContextParser for action: extract
+[2025-09-03T10:09:18.129+08:00] Using commonContextParser for action: extract
+[2025-09-03T10:09:20.466+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-08-43-sqdqybk1.html
+[2025-09-03T10:10:40.885+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T10:10:40.885+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:10:40.889+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:10:47.712+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:10:51.565+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-10-40-1rgefif8.html
+[2025-09-03T10:10:51.566+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '中科星图图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '中科星图图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T10:10:51.566+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '中科星图图层',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:10:51.567+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:10:56.881+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:10:59.959+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-10-40-1rgefif8.html
+[2025-09-03T10:10:59.959+08:00] callActionInActionSpace Tap , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+} , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+}
+[2025-09-03T10:10:59.959+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '返回',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:10:59.960+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:11:05.148+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:11:08.953+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-10-40-1rgefif8.html
+[2025-09-03T10:11:10.959+08:00] Using commonContextParser for action: extract
+[2025-09-03T10:11:13.246+08:00] Using commonContextParser for action: extract
+[2025-09-03T10:11:15.999+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-10-40-1rgefif8.html
+[2025-09-03T10:19:47.365+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T10:19:47.365+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:19:47.369+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:19:54.283+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:19:58.474+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-19-47-b7mn6gio.html
+[2025-09-03T10:19:58.475+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '中科星图图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '中科星图图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T10:19:58.475+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '中科星图图层',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:19:58.476+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:20:03.624+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:20:06.762+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-19-47-b7mn6gio.html
+[2025-09-03T10:20:06.763+08:00] callActionInActionSpace Tap , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+} , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+}
+[2025-09-03T10:20:06.763+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '返回',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:20:06.764+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:20:12.024+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:20:16.300+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-19-47-b7mn6gio.html
+[2025-09-03T10:20:18.267+08:00] Using commonContextParser for action: extract
+[2025-09-03T10:20:20.915+08:00] Using commonContextParser for action: extract
+[2025-09-03T10:20:26.599+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-19-47-b7mn6gio.html
+[2025-09-03T10:20:26.600+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T10:20:26.600+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:20:26.601+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:20:32.997+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:20:36.932+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-19-47-b7mn6gio.html
+[2025-09-03T10:20:36.933+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '高德地形图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '高德地形图层',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T10:20:36.933+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '高德地形图层',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T10:20:36.937+08:00] Using commonContextParser for action: locate
+[2025-09-03T10:20:41.307+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_10-19-47-b7mn6gio.html
+[2025-09-03T14:07:57.406+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:08:11.443+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:08:15.566+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:08:20.226+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:08:30.025+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:08:32.313+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:08:39.014+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:08:49.376+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:08:51.902+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:08:55.445+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:08:55.449+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:08:55.449+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:08:55.453+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:09:04.912+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:09:09.533+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:09:10.568+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:09:11.903+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:09:15.443+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:09:15.445+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '中科星图',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '中科星图',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:09:15.445+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '中科星图',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:09:15.450+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:09:21.206+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:09:24.486+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:09:24.487+08:00] callActionInActionSpace Tap , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+} , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+}
+[2025-09-03T14:09:24.487+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '返回',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:09:24.488+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:09:30.378+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:09:35.168+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:09:37.268+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:09:39.645+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:09:47.116+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:09:47.139+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:09:47.139+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:09:47.140+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:09:55.124+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:09:59.474+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:09:59.476+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '长光卫星(全国)',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '长光卫星(全国)',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:09:59.476+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '长光卫星(全国)',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:09:59.479+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:10:04.920+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:10:08.621+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:10:08.623+08:00] callActionInActionSpace Tap , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+} , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+}
+[2025-09-03T14:10:08.624+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '返回',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:10:08.627+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:10:14.105+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:10:18.147+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:10:20.070+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:10:22.691+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:10:28.273+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:10:28.274+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:10:28.274+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:10:28.275+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:10:35.399+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:10:39.498+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:10:39.499+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '天地图',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '天地图',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:10:39.499+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '天地图',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:10:39.500+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:10:44.101+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:10:47.057+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:10:47.057+08:00] callActionInActionSpace Tap , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+} , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+}
+[2025-09-03T14:10:47.058+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '返回',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:10:47.058+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:10:51.926+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:10:55.156+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:10:57.077+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:10:59.632+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:11:04.673+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-07-57-5s0dh3lg.html
+[2025-09-03T14:11:04.676+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:11:04.676+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:11:04.677+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:11:11.970+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:12:46.916+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:13:02.594+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:13:06.930+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:13:13.414+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:13:20.382+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:13:22.643+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:13:27.058+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:13:41.345+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:13:45.543+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:13:50.768+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:14:01.150+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:14:05.532+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:14:11.546+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-12-46-ascu5boj.html
+[2025-09-03T14:14:11.547+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:14:11.548+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:14:11.549+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:14:19.201+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:14:23.692+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-12-46-ascu5boj.html
+[2025-09-03T14:14:24.723+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:14:26.269+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:14:29.630+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-12-46-ascu5boj.html
+[2025-09-03T14:14:29.636+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '中科星图',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '中科星图',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:14:29.636+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '中科星图',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:14:29.645+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:14:34.979+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:15:30.016+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:15:39.393+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:15:44.336+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:15:48.810+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:15:59.344+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:16:01.841+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:16:07.740+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:16:15.651+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:16:17.734+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:16:21.757+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:16:34.551+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:16:38.820+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:16:44.032+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:16:53.000+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:16:57.978+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:17:03.689+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:17:13.490+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:17:18.912+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:17:24.580+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:17:33.270+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:17:38.065+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:17:44.002+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:17:51.405+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-15-29-cvmywit8.html
+[2025-09-03T14:17:51.408+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:17:51.408+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:17:51.408+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:17:59.518+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:18:04.286+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-15-29-cvmywit8.html
+[2025-09-03T14:18:05.191+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:18:06.799+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:18:10.275+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-15-29-cvmywit8.html
+[2025-09-03T14:18:10.278+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '中科星图',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '中科星图',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:18:10.279+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '中科星图',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:18:10.283+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:18:15.328+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:18:18.709+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-15-29-cvmywit8.html
+[2025-09-03T14:18:18.711+08:00] callActionInActionSpace Tap , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+} , {
+  locate: { prompt: '返回', deepThink: false, cacheable: true, xpath: undefined }
+}
+[2025-09-03T14:18:18.711+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '返回',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:18:18.712+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:18:24.159+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:18:29.031+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-15-29-cvmywit8.html
+[2025-09-03T14:18:31.143+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:18:33.673+08:00] Using commonContextParser for action: extract
+[2025-09-03T14:18:39.767+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-15-29-cvmywit8.html
+[2025-09-03T14:18:39.789+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '界面右上角的图层按钮',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:18:39.789+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '界面右上角的图层按钮',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:18:39.790+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:18:47.657+08:00] Using commonContextParser for action: locate
+[2025-09-03T14:18:52.496+08:00] writeOutActionDumps C:\Projects\midscene-example\midscene_run\report\android-2025-09-03_14-15-29-cvmywit8.html
+[2025-09-03T14:18:52.497+08:00] callActionInActionSpace Tap , {
+  locate: {
+    prompt: '长光卫星(全国)',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+} , {
+  locate: {
+    prompt: '长光卫星(全国)',
+    deepThink: false,
+    cacheable: true,
+    xpath: undefined
+  }
+}
+[2025-09-03T14:18:52.497+08:00] actionPlan {
+  type: 'Tap',
+  param: {
+    locate: {
+      prompt: '长光卫星(全国)',
+      deepThink: false,
+      cacheable: true,
+      xpath: undefined
+    }
+  },
+  thought: ''
+}
+[2025-09-03T14:18:52.500+08:00] Using commonContextParser for action: locate

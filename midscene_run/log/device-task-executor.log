@@ -1059,3 +1059,539 @@
     center: [ 155, 757 ]
   }
 } context.element.center: 155,757
+[2025-09-03T09:35:53.859+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T09:36:01.663+08:00] executing action Tap {
+  locate: {
+    id: 'mppgc',
+    indexId: undefined,
+    center: [ 333, 120 ],
+    rect: { left: 329, top: 116, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 333,120
+[2025-09-03T09:36:05.790+08:00] will prepend locate param for field action.type=Tap param={"prompt":"中科星图图层","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"中科星图图层","deepThink":false,"cacheable":true},"param":{"prompt":"中科星图图层","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T09:36:10.866+08:00] executing action Tap {
+  locate: {
+    id: 'khejg',
+    indexId: undefined,
+    center: [ 42, 189.5 ],
+    rect: { left: 38, top: 185.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 42,189.5
+[2025-09-03T09:36:13.860+08:00] will prepend locate param for field action.type=Tap param={"prompt":"返回首页","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"返回首页","deepThink":false,"cacheable":true},"param":{"prompt":"返回首页","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T09:37:36.395+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T09:37:57.814+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T09:38:05.176+08:00] executing action Tap {
+  locate: {
+    id: 'eehdf',
+    indexId: undefined,
+    center: [ 330.5, 119 ],
+    rect: { left: 326.5, top: 115, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 330.5,119
+[2025-09-03T09:38:09.369+08:00] will prepend locate param for field action.type=Tap param={"prompt":"中科星图图层","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"中科星图图层","deepThink":false,"cacheable":true},"param":{"prompt":"中科星图图层","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T09:38:14.833+08:00] executing action Tap {
+  locate: {
+    id: 'kifbl',
+    indexId: undefined,
+    center: [ 41, 190 ],
+    rect: { left: 37, top: 186, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 41,190
+[2025-09-03T09:38:18.055+08:00] will prepend locate param for field action.type=Tap param={"prompt":"返回","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"返回","deepThink":false,"cacheable":true},"param":{"prompt":"返回","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T09:38:23.146+08:00] executing action Tap {
+  locate: {
+    id: 'jbebe',
+    indexId: undefined,
+    center: [ 28.5, 65 ],
+    rect: { left: 24.5, top: 61, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 28.5,65
+[2025-09-03T10:08:44.198+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T10:08:51.308+08:00] executing action Tap {
+  locate: {
+    id: 'iockg',
+    indexId: undefined,
+    center: [ 330.5, 117.5 ],
+    rect: { left: 326.5, top: 113.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 330.5,117.5
+[2025-09-03T10:08:55.101+08:00] will prepend locate param for field action.type=Tap param={"prompt":"中科星图图层","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"中科星图图层","deepThink":false,"cacheable":true},"param":{"prompt":"中科星图图层","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T10:09:01.034+08:00] executing action Tap {
+  locate: {
+    id: 'bdifk',
+    indexId: undefined,
+    center: [ 37, 188.5 ],
+    rect: { left: 33, top: 184.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 37,188.5
+[2025-09-03T10:09:04.157+08:00] will prepend locate param for field action.type=Tap param={"prompt":"返回","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"返回","deepThink":false,"cacheable":true},"param":{"prompt":"返回","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T10:09:09.099+08:00] executing action Tap {
+  locate: {
+    id: 'jbebe',
+    indexId: undefined,
+    center: [ 28.5, 65 ],
+    rect: { left: 24.5, top: 61, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 28.5,65
+[2025-09-03T10:10:40.887+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T10:10:47.712+08:00] executing action Tap {
+  locate: {
+    id: 'infpa',
+    indexId: undefined,
+    center: [ 328.5, 117.5 ],
+    rect: { left: 324.5, top: 113.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 328.5,117.5
+[2025-09-03T10:10:51.567+08:00] will prepend locate param for field action.type=Tap param={"prompt":"中科星图图层","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"中科星图图层","deepThink":false,"cacheable":true},"param":{"prompt":"中科星图图层","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T10:10:56.881+08:00] executing action Tap {
+  locate: {
+    id: 'kifbl',
+    indexId: undefined,
+    center: [ 41, 190 ],
+    rect: { left: 37, top: 186, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 41,190
+[2025-09-03T10:10:59.960+08:00] will prepend locate param for field action.type=Tap param={"prompt":"返回","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"返回","deepThink":false,"cacheable":true},"param":{"prompt":"返回","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T10:11:05.148+08:00] executing action Tap {
+  locate: {
+    id: 'jbebe',
+    indexId: undefined,
+    center: [ 28.5, 65 ],
+    rect: { left: 24.5, top: 61, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 28.5,65
+[2025-09-03T10:19:47.368+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T10:19:54.283+08:00] executing action Tap {
+  locate: {
+    id: 'iockg',
+    indexId: undefined,
+    center: [ 330.5, 117.5 ],
+    rect: { left: 326.5, top: 113.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 330.5,117.5
+[2025-09-03T10:19:58.476+08:00] will prepend locate param for field action.type=Tap param={"prompt":"中科星图图层","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"中科星图图层","deepThink":false,"cacheable":true},"param":{"prompt":"中科星图图层","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T10:20:03.624+08:00] executing action Tap {
+  locate: {
+    id: 'bmgpd',
+    indexId: undefined,
+    center: [ 43, 189.5 ],
+    rect: { left: 39, top: 185.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 43,189.5
+[2025-09-03T10:20:06.764+08:00] will prepend locate param for field action.type=Tap param={"prompt":"返回","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"返回","deepThink":false,"cacheable":true},"param":{"prompt":"返回","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T10:20:12.024+08:00] executing action Tap {
+  locate: {
+    id: 'jbebe',
+    indexId: undefined,
+    center: [ 28.5, 65 ],
+    rect: { left: 24.5, top: 61, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 28.5,65
+[2025-09-03T10:20:26.601+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T10:20:32.997+08:00] executing action Tap {
+  locate: {
+    id: 'iockg',
+    indexId: undefined,
+    center: [ 330.5, 117.5 ],
+    rect: { left: 326.5, top: 113.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 330.5,117.5
+[2025-09-03T10:20:36.936+08:00] will prepend locate param for field action.type=Tap param={"prompt":"高德地形图层","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"高德地形图层","deepThink":false,"cacheable":true},"param":{"prompt":"高德地形图层","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:08:00.114+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:08:11.442+08:00] will prepend locate param for field action.type=Tap param={"bbox":[279,48,298,67],"prompt":"搜索图标"} locatePlan={"type":"Locate","locate":{"bbox":[279,48,298,67],"prompt":"搜索图标"},"param":{"bbox":[279,48,298,67],"prompt":"搜索图标"},"thought":""}
+[2025-09-03T14:08:15.566+08:00] executing action Tap {
+  locate: {
+    id: 'gabkp',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 284, top: 53, width: 8, height: 8 },
+    content: '',
+    center: [ 288, 57 ]
+  }
+} context.element.center: 288,57
+[2025-09-03T14:08:21.862+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:08:30.024+08:00] will prepend locate param for field action.type=Input param={"bbox":[48,108,211,124],"prompt":"请输入位置或经纬度的输入框"} locatePlan={"type":"Locate","locate":{"bbox":[48,108,211,124],"prompt":"请输入位置或经纬度的输入框"},"param":{"bbox":[48,108,211,124],"prompt":"请输入位置或经纬度的输入框"},"thought":""}
+[2025-09-03T14:08:32.313+08:00] executing action Input {
+  value: '118.167579,24.526063',
+  locate: {
+    id: 'codff',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 125, top: 112, width: 8, height: 8 },
+    content: '',
+    center: [ 129, 116 ]
+  }
+} context.element.center: 129,116
+[2025-09-03T14:08:40.643+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:08:49.376+08:00] will prepend locate param for field action.type=Tap param={"bbox":[49,218,203,237],"prompt":"GCJ02的坐标"} locatePlan={"type":"Locate","locate":{"bbox":[49,218,203,237],"prompt":"GCJ02的坐标"},"param":{"bbox":[49,218,203,237],"prompt":"GCJ02的坐标"},"thought":""}
+[2025-09-03T14:08:51.902+08:00] executing action Tap {
+  locate: {
+    id: 'bgdko',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 122, top: 223, width: 8, height: 8 },
+    content: '',
+    center: [ 126, 227 ]
+  }
+} context.element.center: 126,227
+[2025-09-03T14:08:55.452+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:09:04.912+08:00] executing action Tap {
+  locate: {
+    id: 'iokcp',
+    indexId: undefined,
+    center: [ 338, 121.5 ],
+    rect: { left: 334, top: 117.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 338,121.5
+[2025-09-03T14:09:15.448+08:00] will prepend locate param for field action.type=Tap param={"prompt":"中科星图","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"中科星图","deepThink":false,"cacheable":true},"param":{"prompt":"中科星图","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:09:21.206+08:00] executing action Tap {
+  locate: {
+    id: 'bdifk',
+    indexId: undefined,
+    center: [ 37, 188.5 ],
+    rect: { left: 33, top: 184.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 37,188.5
+[2025-09-03T14:09:24.488+08:00] will prepend locate param for field action.type=Tap param={"prompt":"返回","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"返回","deepThink":false,"cacheable":true},"param":{"prompt":"返回","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:09:30.378+08:00] executing action Tap {
+  locate: {
+    id: 'jbebe',
+    indexId: undefined,
+    center: [ 28.5, 65 ],
+    rect: { left: 24.5, top: 61, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 28.5,65
+[2025-09-03T14:09:47.140+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:09:55.124+08:00] executing action Tap {
+  locate: {
+    id: 'igcdf',
+    indexId: undefined,
+    center: [ 329.5, 117 ],
+    rect: { left: 325.5, top: 113, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 329.5,117
+[2025-09-03T14:09:59.479+08:00] will prepend locate param for field action.type=Tap param={"prompt":"长光卫星(全国)","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"长光卫星(全国)","deepThink":false,"cacheable":true},"param":{"prompt":"长光卫星(全国)","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:10:04.920+08:00] executing action Tap {
+  locate: {
+    id: 'fgjdp',
+    indexId: undefined,
+    center: [ 57.5, 250.5 ],
+    rect: { left: 53.5, top: 246.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 57.5,250.5
+[2025-09-03T14:10:08.627+08:00] will prepend locate param for field action.type=Tap param={"prompt":"返回","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"返回","deepThink":false,"cacheable":true},"param":{"prompt":"返回","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:10:14.105+08:00] executing action Tap {
+  locate: {
+    id: 'jbebe',
+    indexId: undefined,
+    center: [ 28.5, 65 ],
+    rect: { left: 24.5, top: 61, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 28.5,65
+[2025-09-03T14:10:28.275+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:10:35.399+08:00] executing action Tap {
+  locate: {
+    id: 'infpa',
+    indexId: undefined,
+    center: [ 328.5, 117.5 ],
+    rect: { left: 324.5, top: 113.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 328.5,117.5
+[2025-09-03T14:10:39.500+08:00] will prepend locate param for field action.type=Tap param={"prompt":"天地图","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"天地图","deepThink":false,"cacheable":true},"param":{"prompt":"天地图","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:10:44.101+08:00] executing action Tap {
+  locate: {
+    id: 'ogmbb',
+    indexId: undefined,
+    center: [ 30.5, 320 ],
+    rect: { left: 26.5, top: 316, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 30.5,320
+[2025-09-03T14:10:47.058+08:00] will prepend locate param for field action.type=Tap param={"prompt":"返回","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"返回","deepThink":false,"cacheable":true},"param":{"prompt":"返回","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:10:51.926+08:00] executing action Tap {
+  locate: {
+    id: 'jbebe',
+    indexId: undefined,
+    center: [ 28.5, 65 ],
+    rect: { left: 24.5, top: 61, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 28.5,65
+[2025-09-03T14:11:04.677+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:11:11.970+08:00] executing action Tap {
+  locate: {
+    id: 'pkkmk',
+    indexId: undefined,
+    center: [ 331, 119 ],
+    rect: { left: 327, top: 115, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 331,119
+[2025-09-03T14:12:49.344+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:13:02.593+08:00] will prepend locate param for field action.type=Input param={"bbox":[272,48,296,65],"prompt":"搜索框"} locatePlan={"type":"Locate","locate":{"bbox":[272,48,296,65],"prompt":"搜索框"},"param":{"bbox":[272,48,296,65],"prompt":"搜索框"},"thought":""}
+[2025-09-03T14:13:06.930+08:00] executing action Input {
+  value: '118.167579 24.526063',
+  locate: {
+    id: 'iclpf',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 280, top: 52, width: 8, height: 8 },
+    content: '',
+    center: [ 284, 56 ]
+  }
+} context.element.center: 284,56
+[2025-09-03T14:13:14.663+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:13:20.382+08:00] will prepend locate param for field action.type=Tap param={"bbox":[50,219,203,240],"prompt":"GCJ02的坐标"} locatePlan={"type":"Locate","locate":{"bbox":[50,219,203,240],"prompt":"GCJ02的坐标"},"param":{"bbox":[50,219,203,240],"prompt":"GCJ02的坐标"},"thought":""}
+[2025-09-03T14:13:22.643+08:00] executing action Tap {
+  locate: {
+    id: 'ibhko',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 122, top: 225, width: 8, height: 8 },
+    content: '',
+    center: [ 126, 229 ]
+  }
+} context.element.center: 126,229
+[2025-09-03T14:13:29.273+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:13:41.345+08:00] will prepend locate param for field action.type=Tap param={"bbox":[230,629,245,644],"prompt":"底部弹窗的关闭按钮"} locatePlan={"type":"Locate","locate":{"bbox":[230,629,245,644],"prompt":"底部弹窗的关闭按钮"},"param":{"bbox":[230,629,245,644],"prompt":"底部弹窗的关闭按钮"},"thought":""}
+[2025-09-03T14:13:45.543+08:00] executing action Tap {
+  locate: {
+    id: 'jmelh',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 233, top: 632, width: 8, height: 8 },
+    content: '',
+    center: [ 237, 636 ]
+  }
+} context.element.center: 237,636
+[2025-09-03T14:13:53.260+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:14:01.150+08:00] will prepend locate param for field action.type=Scroll param={"bbox":[318,509,357,548],"prompt":"缩小按钮"} locatePlan={"type":"Locate","locate":{"bbox":[318,509,357,548],"prompt":"缩小按钮"},"param":{"bbox":[318,509,357,548],"prompt":"缩小按钮"},"thought":""}
+[2025-09-03T14:14:05.532+08:00] executing action Scroll {
+  direction: 'up',
+  scrollType: 'once',
+  locate: {
+    id: 'oofgo',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 333, top: 524, width: 8, height: 8 },
+    content: '',
+    center: [ 337, 528 ]
+  }
+} context.element.center: 337,528
+[2025-09-03T14:14:11.548+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:14:19.201+08:00] executing action Tap {
+  locate: {
+    id: 'oplfj',
+    indexId: undefined,
+    center: [ 334.5, 117 ],
+    rect: { left: 330.5, top: 113, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 334.5,117
+[2025-09-03T14:14:29.644+08:00] will prepend locate param for field action.type=Tap param={"prompt":"中科星图","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"中科星图","deepThink":false,"cacheable":true},"param":{"prompt":"中科星图","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:14:34.979+08:00] executing action Tap {
+  locate: {
+    id: 'gmpnd',
+    indexId: undefined,
+    center: [ 37, 189 ],
+    rect: { left: 33, top: 185, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 37,189
+[2025-09-03T14:15:32.580+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:15:39.391+08:00] will prepend locate param for field action.type=Tap param={"bbox":[278,49,296,67],"prompt":"搜索图标"} locatePlan={"type":"Locate","locate":{"bbox":[278,49,296,67],"prompt":"搜索图标"},"param":{"bbox":[278,49,296,67],"prompt":"搜索图标"},"thought":""}
+[2025-09-03T14:15:44.336+08:00] executing action Tap {
+  locate: {
+    id: 'ohfjo',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 283, top: 54, width: 8, height: 8 },
+    content: '',
+    center: [ 287, 58 ]
+  }
+} context.element.center: 287,58
+[2025-09-03T14:15:49.937+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:15:59.344+08:00] will prepend locate param for field action.type=Input param={"bbox":[10,103,350,127],"prompt":"请输入位置或经纬度的搜索框"} locatePlan={"type":"Locate","locate":{"bbox":[10,103,350,127],"prompt":"请输入位置或经纬度的搜索框"},"param":{"bbox":[10,103,350,127],"prompt":"请输入位置或经纬度的搜索框"},"thought":""}
+[2025-09-03T14:16:01.841+08:00] executing action Input {
+  value: '118.167579 24.526063',
+  locate: {
+    id: 'jnike',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 176, top: 111, width: 8, height: 8 },
+    content: '',
+    center: [ 180, 115 ]
+  }
+} context.element.center: 180,115
+[2025-09-03T14:16:09.072+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:16:15.651+08:00] will prepend locate param for field action.type=Tap param={"bbox":[49,218,203,237],"prompt":"GCJ02的坐标"} locatePlan={"type":"Locate","locate":{"bbox":[49,218,203,237],"prompt":"GCJ02的坐标"},"param":{"bbox":[49,218,203,237],"prompt":"GCJ02的坐标"},"thought":""}
+[2025-09-03T14:16:17.734+08:00] executing action Tap {
+  locate: {
+    id: 'bgdko',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 122, top: 223, width: 8, height: 8 },
+    content: '',
+    center: [ 126, 227 ]
+  }
+} context.element.center: 126,227
+[2025-09-03T14:16:24.189+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:16:34.551+08:00] will prepend locate param for field action.type=Tap param={"bbox":[20,628,30,643],"prompt":"底部的返回按钮"} locatePlan={"type":"Locate","locate":{"bbox":[20,628,30,643],"prompt":"底部的返回按钮"},"param":{"bbox":[20,628,30,643],"prompt":"底部的返回按钮"},"thought":""}
+[2025-09-03T14:16:38.820+08:00] executing action Tap {
+  locate: {
+    id: 'noeig',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 21, top: 631, width: 8, height: 8 },
+    content: '',
+    center: [ 25, 635 ]
+  }
+} context.element.center: 25,635
+[2025-09-03T14:16:46.841+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:16:52.999+08:00] will prepend locate param for field action.type=Tap param={"bbox":[320,514,348,537],"prompt":"缩小按钮"} locatePlan={"type":"Locate","locate":{"bbox":[320,514,348,537],"prompt":"缩小按钮"},"param":{"bbox":[320,514,348,537],"prompt":"缩小按钮"},"thought":""}
+[2025-09-03T14:16:57.978+08:00] executing action Tap {
+  locate: {
+    id: 'ffcfk',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 330, top: 521, width: 8, height: 8 },
+    content: '',
+    center: [ 334, 525 ]
+  }
+} context.element.center: 334,525
+[2025-09-03T14:17:06.972+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:17:13.490+08:00] will prepend locate param for field action.type=Tap param={"bbox":[324,510,357,533],"prompt":"缩小按钮"} locatePlan={"type":"Locate","locate":{"bbox":[324,510,357,533],"prompt":"缩小按钮"},"param":{"bbox":[324,510,357,533],"prompt":"缩小按钮"},"thought":""}
+[2025-09-03T14:17:18.912+08:00] executing action Tap {
+  locate: {
+    id: 'plmfm',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 336, top: 517, width: 8, height: 8 },
+    content: '',
+    center: [ 340, 521 ]
+  }
+} context.element.center: 340,521
+[2025-09-03T14:17:27.287+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:17:33.270+08:00] will prepend locate param for field action.type=Tap param={"bbox":[320,514,347,541],"prompt":"缩小按钮"} locatePlan={"type":"Locate","locate":{"bbox":[320,514,347,541],"prompt":"缩小按钮"},"param":{"bbox":[320,514,347,541],"prompt":"缩小按钮"},"thought":""}
+[2025-09-03T14:17:38.065+08:00] executing action Tap {
+  locate: {
+    id: 'edcli',
+    attributes: { nodeType: 'POSITION Node' },
+    rect: { left: 329, top: 523, width: 8, height: 8 },
+    content: '',
+    center: [ 333, 527 ]
+  }
+} context.element.center: 333,527
+[2025-09-03T14:17:46.690+08:00] actionSpace for page is: Tap, RightClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, AndroidBackButton, AndroidHomeButton, AndroidRecentAppsButton, AndroidLongPress, AndroidPull
+[2025-09-03T14:17:51.408+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:17:59.518+08:00] executing action Tap {
+  locate: {
+    id: 'jebcf',
+    indexId: undefined,
+    center: [ 332, 117 ],
+    rect: { left: 328, top: 113, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 332,117
+[2025-09-03T14:18:10.282+08:00] will prepend locate param for field action.type=Tap param={"prompt":"中科星图","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"中科星图","deepThink":false,"cacheable":true},"param":{"prompt":"中科星图","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:18:15.328+08:00] executing action Tap {
+  locate: {
+    id: 'kifbl',
+    indexId: undefined,
+    center: [ 41, 190 ],
+    rect: { left: 37, top: 186, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 41,190
+[2025-09-03T14:18:18.712+08:00] will prepend locate param for field action.type=Tap param={"prompt":"返回","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"返回","deepThink":false,"cacheable":true},"param":{"prompt":"返回","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:18:24.159+08:00] executing action Tap {
+  locate: {
+    id: 'jbebe',
+    indexId: undefined,
+    center: [ 28.5, 65 ],
+    rect: { left: 24.5, top: 61, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 28.5,65
+[2025-09-03T14:18:39.790+08:00] will prepend locate param for field action.type=Tap param={"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"param":{"prompt":"界面右上角的图层按钮","deepThink":false,"cacheable":true},"thought":""}
+[2025-09-03T14:18:47.657+08:00] executing action Tap {
+  locate: {
+    id: 'iockg',
+    indexId: undefined,
+    center: [ 330.5, 117.5 ],
+    rect: { left: 326.5, top: 113.5, width: 8, height: 8 },
+    xpaths: [],
+    attributes: { nodeType: 'POSITION Node' },
+    isOrderSensitive: false
+  }
+} context.element.center: 330.5,117.5
+[2025-09-03T14:18:52.500+08:00] will prepend locate param for field action.type=Tap param={"prompt":"长光卫星(全国)","deepThink":false,"cacheable":true} locatePlan={"type":"Locate","locate":{"prompt":"长光卫星(全国)","deepThink":false,"cacheable":true},"param":{"prompt":"长光卫星(全国)","deepThink":false,"cacheable":true},"thought":""}
