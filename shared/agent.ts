@@ -2,12 +2,15 @@ import { AndroidAgent, AndroidDevice, getConnectedDevices } from '@midscene/andr
 import "dotenv/config"; // read environment variables from .env file
 
 export async function initializeAgent() {
-  const devices = await getConnectedDevices();
-  if (devices.length === 0) {
-    throw new Error('No connected Android devices found.');
-  }
-  const page = new AndroidDevice(devices[0].udid);
-  //const page = new AndroidDevice('YOUR_REMOTE_IP:PORT');
+  // const devices = await getConnectedDevices();
+  // if (devices.length === 0) {
+  //   throw new Error('No connected Android devices found.');
+  // }
+  // const page = new AndroidDevice(devices[0].udid);
+  const page = new AndroidDevice('adb-2a36f8ac-KKMVtI',
+    {androidAdbPath:'C:\\Users\\thread0\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe',
+            remoteAdbHost:'10.31.0.142',
+    remoteAdbPort:42373});
 
   //  init Midscene agent
   const agent = new AndroidAgent(page, {
