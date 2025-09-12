@@ -142,3 +142,73 @@
 [2025-09-03T14:18:23.190+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
 [2025-09-03T14:18:45.217+08:00] adaptBboxToRect [ 315, 98, 346, 137 ] 360 780 0 0
 [2025-09-03T14:18:45.217+08:00] adaptBboxToRect, result= { left: 315, top: 98, width: 31, height: 39 }
+[2025-09-08T13:47:56.634+08:00] adaptBboxToRect [ 317, 102, 349, 135 ] 360 780 0 0
+[2025-09-08T13:47:56.634+08:00] adaptBboxToRect, result= { left: 317, top: 102, width: 32, height: 33 }
+[2025-09-08T13:48:11.924+08:00] adaptBboxToRect [ 14, 139, 118, 186 ] 360 780 0 0
+[2025-09-08T13:48:11.924+08:00] adaptBboxToRect, result= { left: 14, top: 139, width: 104, height: 47 }
+[2025-09-08T13:48:19.582+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-08T13:48:19.583+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-08T13:50:04.355+08:00] adaptBboxToRect [ 317, 102, 350, 134 ] 360 780 0 0
+[2025-09-08T13:50:04.355+08:00] adaptBboxToRect, result= { left: 317, top: 102, width: 33, height: 32 }
+[2025-09-08T13:50:23.241+08:00] adaptBboxToRect [ 14, 139, 118, 186 ] 360 780 0 0
+[2025-09-08T13:50:23.241+08:00] adaptBboxToRect, result= { left: 14, top: 139, width: 104, height: 47 }
+[2025-09-08T13:50:31.578+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-08T13:50:31.578+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-08T13:50:52.759+08:00] adaptBboxToRect [ 319, 104, 350, 128 ] 360 780 0 0
+[2025-09-08T13:50:52.759+08:00] adaptBboxToRect, result= { left: 319, top: 104, width: 31, height: 24 }
+[2025-09-08T13:51:03.551+08:00] adaptBboxToRect [ 147, 142, 230, 185 ] 360 780 0 0
+[2025-09-08T13:51:03.552+08:00] adaptBboxToRect, result= { left: 147, top: 142, width: 83, height: 43 }
+[2025-09-08T13:51:11.515+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-08T13:51:11.515+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-08T13:51:33.531+08:00] adaptBboxToRect [ 312, 98, 350, 140 ] 360 780 0 0
+[2025-09-08T13:51:33.531+08:00] adaptBboxToRect, result= { left: 312, top: 98, width: 38, height: 42 }
+[2025-09-08T13:51:44.179+08:00] adaptBboxToRect [ 247, 140, 346, 185 ] 360 780 0 0
+[2025-09-08T13:51:44.179+08:00] adaptBboxToRect, result= { left: 247, top: 140, width: 99, height: 45 }
+[2025-09-08T13:51:52.142+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-08T13:51:52.142+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-08T13:53:55.365+08:00] adaptBboxToRect [ 320, 104, 350, 128 ] 360 780 0 0
+[2025-09-08T13:53:55.365+08:00] adaptBboxToRect, result= { left: 320, top: 104, width: 30, height: 24 }
+[2025-09-08T13:54:11.592+08:00] adaptBboxToRect [ 17, 140, 113, 182 ] 360 780 0 0
+[2025-09-08T13:54:11.592+08:00] adaptBboxToRect, result= { left: 17, top: 140, width: 96, height: 42 }
+[2025-09-08T13:54:19.537+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-08T13:54:19.538+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-08T13:54:39.240+08:00] adaptBboxToRect [ 317, 104, 352, 130 ] 360 780 0 0
+[2025-09-08T13:54:39.240+08:00] adaptBboxToRect, result= { left: 317, top: 104, width: 35, height: 26 }
+[2025-09-08T13:54:50.087+08:00] adaptBboxToRect [ 147, 142, 230, 185 ] 360 780 0 0
+[2025-09-08T13:54:50.087+08:00] adaptBboxToRect, result= { left: 147, top: 142, width: 83, height: 43 }
+[2025-09-08T13:54:58.901+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-08T13:54:58.901+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-08T13:55:18.693+08:00] adaptBboxToRect [ 312, 104, 350, 136 ] 360 780 0 0
+[2025-09-08T13:55:18.694+08:00] adaptBboxToRect, result= { left: 312, top: 104, width: 38, height: 32 }
+[2025-09-08T13:55:29.959+08:00] adaptBboxToRect [ 246, 140, 347, 198 ] 360 780 0 0
+[2025-09-08T13:55:29.959+08:00] adaptBboxToRect, result= { left: 246, top: 140, width: 101, height: 58 }
+[2025-09-08T13:55:37.603+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-08T13:55:37.603+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-08T13:55:57.305+08:00] adaptBboxToRect [ 312, 98, 350, 136 ] 360 780 0 0
+[2025-09-08T13:55:57.305+08:00] adaptBboxToRect, result= { left: 312, top: 98, width: 38, height: 38 }
+[2025-09-08T13:56:07.188+08:00] adaptBboxToRect [ 16, 208, 119, 243 ] 360 780 0 0
+[2025-09-08T13:56:07.188+08:00] adaptBboxToRect, result= { left: 16, top: 208, width: 103, height: 35 }
+[2025-09-08T13:56:20.916+08:00] adaptBboxToRect [ 23, 59, 34, 71 ] 360 780 0 0
+[2025-09-08T13:56:20.916+08:00] adaptBboxToRect, result= { left: 23, top: 59, width: 11, height: 12 }
+[2025-09-08T14:30:48.985+08:00] adaptBboxToRect [ 320, 98, 347, 130 ] 360 800 0 0
+[2025-09-08T14:30:48.986+08:00] adaptBboxToRect, result= { left: 320, top: 98, width: 27, height: 32 }
+[2025-09-08T14:31:16.108+08:00] adaptBboxToRect [ 15, 137, 118, 182 ] 360 800 0 0
+[2025-09-08T14:31:16.108+08:00] adaptBboxToRect, result= { left: 15, top: 137, width: 103, height: 45 }
+[2025-09-08T14:31:28.595+08:00] adaptBboxToRect [ 23, 54, 34, 68 ] 360 800 0 0
+[2025-09-08T14:31:28.595+08:00] adaptBboxToRect, result= { left: 23, top: 54, width: 11, height: 14 }
+[2025-09-08T14:32:04.592+08:00] adaptBboxToRect [ 320, 98, 346, 127 ] 360 800 0 0
+[2025-09-08T14:32:04.593+08:00] adaptBboxToRect, result= { left: 320, top: 98, width: 26, height: 29 }
+[2025-09-08T14:32:21.550+08:00] adaptBboxToRect [ 147, 139, 228, 176 ] 360 800 0 0
+[2025-09-08T14:32:21.551+08:00] adaptBboxToRect, result= { left: 147, top: 139, width: 81, height: 37 }
+[2025-09-08T14:32:33.634+08:00] adaptBboxToRect [ 23, 54, 34, 67 ] 360 800 0 0
+[2025-09-08T14:32:33.634+08:00] adaptBboxToRect, result= { left: 23, top: 54, width: 11, height: 13 }
+[2025-09-08T14:33:09.655+08:00] adaptBboxToRect [ 320, 98, 345, 127 ] 360 800 0 0
+[2025-09-08T14:33:09.655+08:00] adaptBboxToRect, result= { left: 320, top: 98, width: 25, height: 29 }
+[2025-09-08T14:33:26.412+08:00] adaptBboxToRect [ 271, 145, 318, 166 ] 360 800 0 0
+[2025-09-08T14:33:26.412+08:00] adaptBboxToRect, result= { left: 271, top: 145, width: 47, height: 21 }
+[2025-09-08T14:33:37.774+08:00] adaptBboxToRect [ 23, 54, 34, 67 ] 360 800 0 0
+[2025-09-08T14:33:37.774+08:00] adaptBboxToRect, result= { left: 23, top: 54, width: 11, height: 13 }
+[2025-09-08T14:34:06.824+08:00] adaptBboxToRect [ 324, 98, 346, 127 ] 360 800 0 0
+[2025-09-08T14:34:06.824+08:00] adaptBboxToRect, result= { left: 324, top: 98, width: 22, height: 29 }
+[2025-09-08T14:34:21.965+08:00] adaptBboxToRect [ 16, 204, 118, 239 ] 360 800 0 0
+[2025-09-08T14:34:21.965+08:00] adaptBboxToRect, result= { left: 16, top: 204, width: 102, height: 35 }

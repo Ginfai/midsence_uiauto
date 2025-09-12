@@ -2145,3 +2145,904 @@ Given the analysis, here is the output:
   "errors": []
 }
 ```
+[2025-09-08T13:46:27.717+08:00] sending request to qwen-vl-max
+[2025-09-08T13:46:38.829+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "用户需要打开搜索功能，输入坐标118.167579 24.526063，并选择GCJ02的坐标。",
+  "log": "现在我将使用Tap操作来点击搜索图标以打开搜索功能。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [278, 48, 298, 68],
+        "prompt": "搜索图标"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:46:49.475+08:00] sending request to qwen-vl-max
+[2025-09-08T13:46:55.270+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "关闭当前弹窗，以便继续进行坐标搜索。",
+  "log": "现在我将使用Tap操作来点击弹窗右上角的关闭按钮以关闭弹窗。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [297, 286, 314, 305],
+        "prompt": "弹窗右上角的关闭按钮"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:47:02.150+08:00] sending request to qwen-vl-max
+[2025-09-08T13:47:10.684+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要在搜索框中输入坐标118.167579 24.526063。",
+  "log": "现在我将使用Input操作来在搜索框中输入坐标118.167579 24.526063。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "118.167579 24.526063",
+      "locate": {
+        "bbox": [10, 103, 349, 127],
+        "prompt": "搜索框"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:47:19.649+08:00] sending request to qwen-vl-max
+[2025-09-08T13:47:26.224+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要点击GCJ02的坐标。",
+  "log": "现在我将使用Tap操作来点击GCJ02的坐标。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [49, 223, 203, 237],
+        "prompt": "GCJ02的坐标"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:47:33.287+08:00] sending request to qwen-vl-max
+[2025-09-08T13:47:39.533+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要点击底部的返回按钮来关闭底部弹窗。",
+  "log": "现在我将使用Tap操作来点击底部的返回按钮来关闭底部弹窗。",
+  "more_actions_needed_by_instruction": false,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [15, 627, 30, 642],
+        "prompt": "底部的返回按钮"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:47:52.591+08:00] sending request to qwen-vl-max
+[2025-09-08T13:47:56.633+08:00] response: ```json
+{
+  "bbox": [317, 102, 349, 135],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:48:06.692+08:00] sending request to qwen-vl-max
+[2025-09-08T13:48:08.150+08:00] response: ```json
+{
+  "data": {
+    "result": false
+  }
+}
+```
+[2025-09-08T13:48:09.963+08:00] sending request to qwen-vl-max
+[2025-09-08T13:48:11.923+08:00] response: ```json
+{
+  "bbox": [14, 139, 118, 186],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:48:17.215+08:00] sending request to qwen-vl-max
+[2025-09-08T13:48:19.581+08:00] response: ```json
+{
+  "bbox": [23, 59, 34, 71],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:48:32.395+08:00] sending request to qwen-vl-max
+[2025-09-08T13:48:50.412+08:00] sending request to qwen-vl-max
+[2025-09-08T13:48:58.454+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "用户需要打开搜索功能，输入坐标118.167579 24.526063。",
+  "log": "现在我将使用Tap操作来点击搜索图标以打开搜索功能。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [278, 48, 300, 70],
+        "prompt": "搜索图标"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:49:08.917+08:00] sending request to qwen-vl-max
+[2025-09-08T13:49:18.952+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要在搜索框中输入坐标118.167579 24.526063。",
+  "log": "现在我将使用Input操作来在搜索框中输入坐标118.167579 24.526063。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "118.167579 24.526063",
+      "locate": {
+        "bbox": [10, 103, 350, 129],
+        "prompt": "请输入位置或经纬度的搜索框"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:49:27.950+08:00] sending request to qwen-vl-max
+[2025-09-08T13:49:33.153+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要点击GCJ02的坐标。",
+  "log": "现在我将使用Tap操作来点击GCJ02的坐标。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [50, 219, 203, 240],
+        "prompt": "GCJ02的坐标"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:49:43.067+08:00] sending request to qwen-vl-max
+[2025-09-08T13:49:49.524+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要点击底部的返回按钮来关闭底部弹窗。",
+  "log": "现在我将使用Tap操作来点击底部的返回按钮来关闭底部弹窗。",
+  "more_actions_needed_by_instruction": false,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [15, 627, 30, 642],
+        "prompt": "底部的返回按钮"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:50:01.375+08:00] sending request to qwen-vl-max
+[2025-09-08T13:50:04.353+08:00] response: ```json
+{
+  "bbox": [317, 102, 350, 134],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:50:14.368+08:00] sending request to qwen-vl-max
+[2025-09-08T13:50:16.350+08:00] response: ```json
+{
+  "data": {
+    "result": false
+  }
+}
+```
+[2025-09-08T13:50:18.649+08:00] sending request to qwen-vl-max
+[2025-09-08T13:50:23.240+08:00] response: ```json
+{
+  "bbox": [14, 139, 118, 186],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:50:29.117+08:00] sending request to qwen-vl-max
+[2025-09-08T13:50:31.577+08:00] response: ```json
+{
+  "bbox": [23, 59, 34, 71],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:50:44.077+08:00] sending request to qwen-vl-max
+[2025-09-08T13:50:47.173+08:00] response: ```json
+{
+  "thought": "对比当前界面与参考图像，卫星图像的地形、建筑物布局和颜色一致，确认为同一地点。",
+  "data": {
+    "result": true
+  },
+  "errors": []
+}
+```
+[2025-09-08T13:50:50.475+08:00] sending request to qwen-vl-max
+[2025-09-08T13:50:52.759+08:00] response: ```json
+{
+  "bbox": [319, 104, 350, 128],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:51:00.661+08:00] sending request to qwen-vl-max
+[2025-09-08T13:51:03.550+08:00] response: ```json
+{
+  "bbox": [147, 142, 230, 185],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:51:09.216+08:00] sending request to qwen-vl-max
+[2025-09-08T13:51:11.514+08:00] response: ```json
+{
+  "bbox": [23, 59, 34, 71],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:51:23.622+08:00] sending request to qwen-vl-max
+[2025-09-08T13:51:27.768+08:00] response: ```json
+{
+  "thought": "比较两张卫星图像，发现它们的地形、建筑物布局和颜色完全一致，因此判断为同一图像。",
+  "data": {
+    "result": true
+  },
+  "errors": []
+}
+```
+[2025-09-08T13:51:31.108+08:00] sending request to qwen-vl-max
+[2025-09-08T13:51:33.531+08:00] response: ```json
+{
+  "bbox": [312, 98, 350, 140],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:51:41.824+08:00] sending request to qwen-vl-max
+[2025-09-08T13:51:44.179+08:00] response: ```json
+{
+  "bbox": [247, 140, 346, 185],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:51:49.960+08:00] sending request to qwen-vl-max
+[2025-09-08T13:51:52.141+08:00] response: ```json
+{
+  "bbox": [23, 59, 34, 71],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:52:34.113+08:00] sending request to qwen-vl-max
+[2025-09-08T13:52:41.854+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "用户需要打开搜索功能，输入坐标118.167579 24.526063。",
+  "log": "现在我将使用Tap操作来点击搜索图标以打开搜索功能。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [278, 49, 300, 71],
+        "prompt": "搜索图标"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:52:53.122+08:00] sending request to qwen-vl-max
+[2025-09-08T13:53:03.975+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要在搜索框中输入坐标118.167579 24.526063。",
+  "log": "现在我将使用Input操作来在搜索框中输入坐标118.167579 24.526063。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "118.167579 24.526063",
+      "locate": {
+        "bbox": [10, 103, 350, 128],
+        "prompt": "搜索框"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:53:12.521+08:00] sending request to qwen-vl-max
+[2025-09-08T13:53:33.853+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据之前的日志，我们已经打开了搜索并输入了坐标。接下来需要点击GCJ02的坐标。",
+  "log": "现在我将使用Tap操作来点击GCJ02的坐标。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [150, 480, 200, 500],
+        "prompt": "GCJ02的坐标"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:53:39.321+08:00] sending request to qwen-vl-max
+[2025-09-08T13:53:44.828+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据之前的日志，我们已经点击了GCJ02的坐标。接下来需要点击底部的返回按钮来关闭底部弹窗。",
+  "log": "现在我将使用Tap操作来点击底部的返回按钮来关闭底部弹窗。",
+  "more_actions_needed_by_instruction": false,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [20, 54, 36, 71],
+        "prompt": "底部的返回按钮"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:53:53.008+08:00] sending request to qwen-vl-max
+[2025-09-08T13:53:55.364+08:00] response: ```json
+{
+  "bbox": [320, 104, 350, 128],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:54:04.666+08:00] sending request to qwen-vl-max
+[2025-09-08T13:54:07.871+08:00] response: ```json
+{
+  "data": {
+    "result": false
+  }
+}
+```
+[2025-09-08T13:54:09.225+08:00] sending request to qwen-vl-max
+[2025-09-08T13:54:11.592+08:00] response: ```json
+{
+  "bbox": [17, 140, 113, 182],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:54:16.690+08:00] sending request to qwen-vl-max
+[2025-09-08T13:54:19.537+08:00] response: ```json
+{
+  "bbox": [23, 59, 34, 71],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:54:31.311+08:00] sending request to qwen-vl-max
+[2025-09-08T13:54:34.405+08:00] response: ```json
+{
+  "thought": "对比当前界面与参考图像，卫星图像的地形、建筑物布局和颜色一致，确认为同一地点。",
+  "data": {
+    "result": true
+  },
+  "errors": []
+}
+```
+[2025-09-08T13:54:37.091+08:00] sending request to qwen-vl-max
+[2025-09-08T13:54:39.240+08:00] response: ```json
+{
+  "bbox": [317, 104, 352, 130],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:54:47.299+08:00] sending request to qwen-vl-max
+[2025-09-08T13:54:50.086+08:00] response: ```json
+{
+  "bbox": [147, 142, 230, 185],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:54:55.471+08:00] sending request to qwen-vl-max
+[2025-09-08T13:54:58.900+08:00] response: ```json
+{
+  "bbox": [23, 59, 34, 71],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:55:10.776+08:00] sending request to qwen-vl-max
+[2025-09-08T13:55:13.629+08:00] response: ```json
+{
+  "thought": "对比当前界面与参考图像，卫星图像的地形、建筑物布局和颜色一致，确认为同一图像。",
+  "data": {
+    "result": true
+  },
+  "errors": []
+}
+```
+[2025-09-08T13:55:16.392+08:00] sending request to qwen-vl-max
+[2025-09-08T13:55:18.692+08:00] response: ```json
+{
+  "bbox": [312, 104, 350, 136],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:55:26.114+08:00] sending request to qwen-vl-max
+[2025-09-08T13:55:29.958+08:00] response: ```json
+{
+  "bbox": [246, 140, 347, 198],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:55:34.948+08:00] sending request to qwen-vl-max
+[2025-09-08T13:55:37.603+08:00] response: ```json
+{
+  "bbox": [23, 59, 34, 71],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:55:49.304+08:00] sending request to qwen-vl-max
+[2025-09-08T13:55:52.280+08:00] response: ```json
+{
+  "thought": "比较当前界面与参考图像，卫星图像的布局、地标和颜色一致，确认为同一位置。",
+  "data": {
+    "result": true
+  },
+  "errors": []
+}
+```
+[2025-09-08T13:55:55.102+08:00] sending request to qwen-vl-max
+[2025-09-08T13:55:57.304+08:00] response: ```json
+{
+  "bbox": [312, 98, 350, 136],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:56:04.650+08:00] sending request to qwen-vl-max
+[2025-09-08T13:56:07.188+08:00] response: ```json
+{
+  "bbox": [16, 208, 119, 243],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:56:12.031+08:00] sending request to qwen-vl-max
+[2025-09-08T13:56:20.916+08:00] response: ```json
+{
+  "bbox": [23, 59, 34, 71],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T13:56:32.180+08:00] sending request to qwen-vl-max
+[2025-09-08T13:56:35.108+08:00] response: ```json
+{
+  "thought": "对比当前界面与参考图像，卫星图像的布局、建筑物和道路特征一致。",
+  "data": {
+    "result": true
+  },
+  "errors": []
+}
+```
+[2025-09-08T13:57:39.396+08:00] sending request to qwen-vl-max
+[2025-09-08T13:57:46.489+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要打开搜索功能。",
+  "log": "现在我将使用Tap操作来点击搜索按钮以打开搜索功能。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [278, 49, 301, 72],
+        "prompt": "搜索按钮"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:57:55.942+08:00] sending request to qwen-vl-max
+[2025-09-08T13:58:05.529+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要在搜索框中输入坐标118.167579 24.526063。",
+  "log": "现在我将使用Input操作来在搜索框中输入坐标118.167579 24.526063。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "118.167579 24.526063",
+      "locate": {
+        "bbox": [10, 103, 350, 129],
+        "prompt": "请输入位置或经纬度的搜索框"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:58:14.031+08:00] sending request to qwen-vl-max
+[2025-09-08T13:58:19.897+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要点击GCJ02的坐标。",
+  "log": "现在我将使用Tap操作来点击GCJ02的坐标。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [49, 218, 203, 240],
+        "prompt": "GCJ02的坐标"
+      }
+    }
+  }
+}
+```
+[2025-09-08T13:58:27.600+08:00] sending request to qwen-vl-max
+[2025-09-08T13:58:32.760+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要点击底部的返回按钮来关闭底部弹窗。",
+  "log": "现在我将使用Tap操作来点击底部的返回按钮来关闭底部弹窗。",
+  "more_actions_needed_by_instruction": false,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [15, 627, 30, 642],
+        "prompt": "底部的返回按钮"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:23:36.972+08:00] sending request to qwen-vl-max
+[2025-09-08T14:23:41.579+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "当前页面与用户指令无关，需要返回到主界面或相关功能页面进行操作。",
+  "log": "当前页面与用户指令无关，需要返回到主界面或相关功能页面进行操作。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "AndroidBackButton"
+  }
+}
+```
+[2025-09-08T14:23:58.724+08:00] sending request to qwen-vl-max
+[2025-09-08T14:24:10.653+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "用户需要返回到主界面或相关功能页面进行操作，当前页面与搜索和坐标输入无关。",
+  "log": "现在我将使用AndroidBackButton来返回到上一个页面，以便找到搜索功能。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "AndroidBackButton"
+  }
+}
+```
+[2025-09-08T14:24:28.065+08:00] sending request to qwen-vl-max
+[2025-09-08T14:24:35.053+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据用户指令，需要关闭当前弹窗并返回到主界面或相关功能页面进行操作。",
+  "log": "现在我将使用Tap来点击'退出'按钮以关闭当前弹窗。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [243, 496, 278, 510],
+        "prompt": "'退出'按钮"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:24:56.486+08:00] sending request to qwen-vl-max
+[2025-09-08T14:25:02.447+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "用户需要打开搜索功能并输入坐标，因此接下来应该找到并点击搜索框。",
+  "log": "现在我将使用Tap来点击搜索框以开始输入坐标。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [154, 678, 206, 696],
+        "prompt": "搜索框"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:26:08.805+08:00] sending request to qwen-vl-max
+[2025-09-08T14:26:13.440+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "用户希望打开搜索功能并输入坐标，但当前页面显示的是地球的图像，没有可见的搜索框或相关选项。",
+  "log": "当前页面没有可见的搜索框或相关选项，需要找到并打开搜索功能。",
+  "more_actions_needed_by_instruction": true,
+  "action": null,
+  "sleep": null
+}
+```
+[2025-09-08T14:26:36.228+08:00] sending request to qwen-vl-max
+[2025-09-08T14:26:42.026+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据高优先级知识，需要点击弹窗中的同意按钮来处理重要通知。",
+  "log": "现在我将使用 Tap 动作点击 '立即体验' 按钮来关闭弹窗。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [34, 568, 325, 607],
+        "prompt": "立即体验按钮"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:27:14.182+08:00] sending request to qwen-vl-max
+[2025-09-08T14:27:20.982+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，需要处理弹窗提示以继续操作。当前弹窗提示申请定位权限，应点击同意。",
+  "log": "现在我将使用 Tap 动作点击 '同意' 按钮来处理定位权限请求。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [291, 102, 308, 117],
+        "prompt": "关闭定位权限提示的按钮"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:27:46.121+08:00] sending request to qwen-vl-max
+[2025-09-08T14:27:54.377+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "用户需要打开搜索功能并输入坐标118.167579 24.526063。",
+  "log": "现在我将使用 Tap 动作来找到并点击搜索框以开始输入坐标。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [100, 100, 200, 200],
+        "prompt": "地图上的搜索框"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:28:18.211+08:00] sending request to qwen-vl-max
+[2025-09-08T14:28:34.539+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "用户需要在搜索框中输入坐标118.167579 24.526063。",
+  "log": "现在我将使用 Input 动作来输入坐标118.167579 24.526063。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "118.167579 24.526063",
+      "locate": {
+        "bbox": [275, 44, 298, 67],
+        "prompt": "搜索框"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:29:05.872+08:00] sending request to qwen-vl-max
+[2025-09-08T14:29:13.996+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要输入坐标118.167579 24.526063。",
+  "log": "现在我将使用Input动作来输入坐标118.167579 24.526063。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "118.167579 24.526063",
+      "locate": {
+        "bbox": [17, 102, 350, 122],
+        "prompt": "请输入位置或经纬度的输入框"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:29:39.101+08:00] sending request to qwen-vl-max
+[2025-09-08T14:29:47.567+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据之前的日志，我们已经输入了坐标118.167579 24.526063。接下来需要点击GCJ02的坐标。",
+  "log": "现在我将使用Tap动作来点击GCJ02的坐标。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [277, 46, 299, 68],
+        "prompt": "搜索图标"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:30:11.869+08:00] sending request to qwen-vl-max
+[2025-09-08T14:30:18.124+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要点击底部的返回按钮来关闭底部弹窗。",
+  "log": "现在我将使用Tap动作来点击底部的返回按钮来关闭底部弹窗。",
+  "more_actions_needed_by_instruction": false,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [15, 49, 36, 72],
+        "prompt": "底部的返回按钮"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:30:36.232+08:00] sending request to qwen-vl-max
+[2025-09-08T14:30:48.983+08:00] response: ```json
+{
+  "bbox": [320, 98, 347, 130],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:31:09.145+08:00] sending request to qwen-vl-max
+[2025-09-08T14:31:11.069+08:00] response: ```json
+{
+  "data": {
+    "result": false
+  }
+}
+```
+[2025-09-08T14:31:13.774+08:00] sending request to qwen-vl-max
+[2025-09-08T14:31:16.107+08:00] response: ```json
+{
+  "bbox": [15, 137, 118, 182],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:31:26.051+08:00] sending request to qwen-vl-max
+[2025-09-08T14:31:28.594+08:00] response: ```json
+{
+  "bbox": [23, 54, 34, 68],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:31:53.676+08:00] sending request to qwen-vl-max
+[2025-09-08T14:31:56.891+08:00] response: ```json
+{
+  "thought": "比较当前界面的卫星图像与参考图像，发现两者显示的内容和细节明显不同，因此判断为不一致。",
+  "data": {
+    "result": false
+  },
+  "errors": []
+}
+```
+[2025-09-08T14:32:01.710+08:00] sending request to qwen-vl-max
+[2025-09-08T14:32:04.591+08:00] response: ```json
+{
+  "bbox": [320, 98, 346, 127],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:32:18.179+08:00] sending request to qwen-vl-max
+[2025-09-08T14:32:21.549+08:00] response: ```json
+{
+  "bbox": [147, 139, 228, 176],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:32:31.208+08:00] sending request to qwen-vl-max
+[2025-09-08T14:32:33.634+08:00] response: ```json
+{
+  "bbox": [23, 54, 34, 67],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:32:56.765+08:00] sending request to qwen-vl-max
+[2025-09-08T14:33:00.428+08:00] response: ```json
+{
+  "thought": "当前界面显示的是地球的卫星图像，而参考图像显示的是特定区域的高分辨率卫星图像。两者在内容和细节上明显不同。",
+  "data": {
+    "result": false
+  },
+  "errors": []
+}
+```
+[2025-09-08T14:33:04.880+08:00] sending request to qwen-vl-max
+[2025-09-08T14:33:09.653+08:00] response: ```json
+{
+  "bbox": [320, 98, 345, 127],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:33:23.937+08:00] sending request to qwen-vl-max
+[2025-09-08T14:33:26.412+08:00] response: ```json
+{
+  "bbox": [271, 145, 318, 166],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:33:35.640+08:00] sending request to qwen-vl-max
+[2025-09-08T14:33:37.773+08:00] response: ```json
+{
+  "bbox": [23, 54, 34, 67],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:33:56.610+08:00] sending request to qwen-vl-max
+[2025-09-08T14:34:00.776+08:00] response: ```json
+{
+  "thought": "比较当前界面的卫星图像与参考图像，发现两者显示的内容和细节不一致。当前界面显示的是地球整体视图，而参考图像显示的是具体区域的详细视图。",
+  "data": {
+    "result": false
+  },
+  "errors": []
+}
+```
+[2025-09-08T14:34:04.858+08:00] sending request to qwen-vl-max
+[2025-09-08T14:34:06.823+08:00] response: ```json
+{
+  "bbox": [324, 98, 346, 127],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:34:19.729+08:00] sending request to qwen-vl-max
+[2025-09-08T14:34:21.965+08:00] response: ```json
+{
+  "bbox": [16, 204, 118, 239],
+  "isOrderSensitive": false,
+  "errors": []
+}
+```
+[2025-09-08T14:57:12.677+08:00] sending request to qwen-vl-max
+[2025-09-08T14:57:19.422+08:00] response: ```json
+{
+  "what_the_user_wants_to_do_next_by_instruction": "根据指令，下一步需要打开搜索功能。",
+  "log": "现在我将使用 Tap 动作来点击搜索图标以打开搜索功能。",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "bbox": [278, 46, 301, 69],
+        "prompt": "搜索图标"
+      }
+    }
+  }
+}
+```
+[2025-09-08T14:57:37.416+08:00] sending request to qwen-vl-max

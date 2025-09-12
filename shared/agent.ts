@@ -1,16 +1,20 @@
 import { AndroidAgent, AndroidDevice, getConnectedDevices } from '@midscene/android';
+import { execSync } from 'child_process';
 import "dotenv/config"; // read environment variables from .env file
 
 export async function initializeAgent() {
+  // 本地连接
   // const devices = await getConnectedDevices();
   // if (devices.length === 0) {
   //   throw new Error('No connected Android devices found.');
   // }
   // const page = new AndroidDevice(devices[0].udid);
-  const page = new AndroidDevice('adb-2a36f8ac-KKMVtI',
-    {androidAdbPath:'C:\\Users\\thread0\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe',
-            remoteAdbHost:'10.31.0.142',
-    remoteAdbPort:42373});
+
+  //adb无线调试
+  console.log('Attempting to connect to remote ADB device...');
+  execSync('adb connect 10.31.0.142:37451');
+  console.log('ADB connect command executed.');
+  const page = new AndroidDevice('adb-2a36f8ac-KKMVtI._adb-tls-connect._tcp');
 
   //  init Midscene agent
   const agent = new AndroidAgent(page, {
